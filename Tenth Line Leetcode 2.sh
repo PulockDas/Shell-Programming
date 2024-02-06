@@ -2,7 +2,7 @@
 
 n=1
 while IFS= read -r line; do
-    if [ "$n" -eq 5 ]; then
+    if [ "$n" -eq 10 ]; then
         echo "$line"
         break
     fi 
