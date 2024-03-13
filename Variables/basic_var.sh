@@ -2,7 +2,7 @@
 readonly AGE=25
 echo $AGE
 
-AGE=30 # WARNINHG## AGE: readonly variable
+AGE=30 # WARNING## AGE: readonly variable
 echo $AGE
 
 
